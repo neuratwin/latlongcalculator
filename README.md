@@ -4,4 +4,7 @@
 
 # See the source code in the python file
 
-#individual coordinates or batch operation can be done
+individual or batch operation can be done from two available function
+Multiple coordinate changes are also possbile
+
+Depends on pyproj library. 
